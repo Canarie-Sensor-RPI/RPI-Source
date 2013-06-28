@@ -1,0 +1,3 @@
+[submodule "geocens-js-api"]
+	path = geocens-js-api
+	url = git://github.com/Canarie-Sensor-RPI/geocens-js-api.git
